@@ -1,0 +1,64 @@
+{
+  "date": "2025-01-06",
+  "projects": {
+    "totem": {
+      "totalLinesAdded": 208,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "\\\\TOTEM-PC\\xampp\\htdocs\\totem\\periodo.php": [
+          {
+            "timestamp": "2025-01-06T12:32:14.033Z",
+            "fileName": "\\\\TOTEM-PC\\xampp\\htdocs\\totem\\periodo.php",
+            "fileType": ".php",
+            "linesAdded": 157,
+            "linesRemoved": 0,
+            "projectName": "totem",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "\\\\TOTEM-PC\\xampp\\htdocs\\totem\\index.php": [
+          {
+            "timestamp": "2025-01-06T12:32:47.302Z",
+            "fileName": "\\\\TOTEM-PC\\xampp\\htdocs\\totem\\index.php",
+            "fileType": ".php",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "totem",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 1
+      },
+      "changeFrequency": {
+        "9": 1
+      },
+      "topFiles": [
+        "\\\\TOTEM-PC\\xampp\\htdocs\\totem\\periodo.php",
+        "\\\\TOTEM-PC\\xampp\\htdocs\\totem\\index.php"
+      ],
+      "averageChangeSize": 104
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
