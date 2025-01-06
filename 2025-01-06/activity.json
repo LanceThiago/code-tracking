@@ -2,9 +2,9 @@
   "date": "2025-01-06",
   "projects": {
     "totem": {
-      "totalLinesAdded": 266,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 4,
+      "totalLinesAdded": 276,
+      "totalLinesRemoved": 12,
+      "totalActiveTime": 10,
       "files": {
         "\\\\TOTEM-PC\\xampp\\htdocs\\totem\\periodo.php": [
           {
@@ -33,6 +33,62 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-01-06T12:48:25.273Z",
+            "fileName": "\\\\TOTEM-PC\\xampp\\htdocs\\totem\\periodo.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "totem",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-01-06T12:49:31.488Z",
+            "fileName": "\\\\TOTEM-PC\\xampp\\htdocs\\totem\\periodo.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "totem",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-01-06T12:50:03.086Z",
+            "fileName": "\\\\TOTEM-PC\\xampp\\htdocs\\totem\\periodo.php",
+            "fileType": ".php",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "totem",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-01-06T12:50:34.554Z",
+            "fileName": "\\\\TOTEM-PC\\xampp\\htdocs\\totem\\periodo.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "totem",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ],
