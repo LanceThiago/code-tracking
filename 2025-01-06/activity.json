@@ -3,7 +3,7 @@
   "projects": {
     "totem": {
       "totalLinesAdded": 282,
-      "totalLinesRemoved": 14,
+      "totalLinesRemoved": 16,
       "totalActiveTime": 23,
       "files": {
         "\\\\TOTEM-PC\\xampp\\htdocs\\totem\\periodo.php": [
@@ -159,6 +159,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-01-06T13:14:32.848Z",
+            "fileName": "\\\\TOTEM-PC\\xampp\\htdocs\\totem\\periodo.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "totem",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ],
