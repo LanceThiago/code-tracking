@@ -2,9 +2,9 @@
   "date": "2025-01-07",
   "projects": {
     "Nueva carpeta": {
-      "totalLinesAdded": 325,
-      "totalLinesRemoved": 183,
-      "totalActiveTime": 124,
+      "totalLinesAdded": 328,
+      "totalLinesRemoved": 194,
+      "totalActiveTime": 129,
       "files": {
         "c:\\xampp\\htdocs\\Nueva carpeta\\index.html": [
           {
@@ -1139,6 +1139,62 @@
               "removed": []
             },
             "duration": 2,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-07T17:56:06.369Z",
+            "fileName": "c:\\xampp\\htdocs\\Nueva carpeta\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Nueva carpeta",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-07T17:58:14.970Z",
+            "fileName": "c:\\xampp\\htdocs\\Nueva carpeta\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 11,
+            "projectName": "Nueva carpeta",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-07T17:58:26.138Z",
+            "fileName": "c:\\xampp\\htdocs\\Nueva carpeta\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Nueva carpeta",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-07T17:58:50.346Z",
+            "fileName": "c:\\xampp\\htdocs\\Nueva carpeta\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Nueva carpeta",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "html"
           }
         ]
