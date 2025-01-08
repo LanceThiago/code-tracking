@@ -3,8 +3,8 @@
   "projects": {
     "Nueva carpeta": {
       "totalLinesAdded": 462,
-      "totalLinesRemoved": 285,
-      "totalActiveTime": 117,
+      "totalLinesRemoved": 286,
+      "totalActiveTime": 120,
       "files": {
         "c:\\xampp\\htdocs\\Nueva carpeta\\index.html": [
           {
@@ -971,6 +971,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-08T17:34:26.791Z",
+            "fileName": "c:\\xampp\\htdocs\\Nueva carpeta\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Nueva carpeta",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "html"
           }
         ]
