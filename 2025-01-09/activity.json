@@ -2,9 +2,9 @@
   "date": "2025-01-09",
   "projects": {
     "Nueva carpeta": {
-      "totalLinesAdded": 3,
+      "totalLinesAdded": 8,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 1,
+      "totalActiveTime": 4,
       "files": {
         "c:\\xampp\\htdocs\\Nueva carpeta\\index.html": [
           {
@@ -33,6 +33,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-09T11:17:51.479Z",
+            "fileName": "c:\\xampp\\htdocs\\Nueva carpeta\\index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Nueva carpeta",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-09T11:19:53.670Z",
+            "fileName": "c:\\xampp\\htdocs\\Nueva carpeta\\index.html",
+            "fileType": ".html",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Nueva carpeta",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "html"
           }
         ]
