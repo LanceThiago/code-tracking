@@ -1,0 +1,61 @@
+{
+  "date": "2025-01-09",
+  "projects": {
+    "Nueva carpeta": {
+      "totalLinesAdded": 3,
+      "totalLinesRemoved": 3,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\xampp\\htdocs\\Nueva carpeta\\index.html": [
+          {
+            "timestamp": "2025-01-09T10:36:27.140Z",
+            "fileName": "c:\\xampp\\htdocs\\Nueva carpeta\\index.html",
+            "fileType": ".html",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "Nueva carpeta",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-01-09T10:36:44.789Z",
+            "fileName": "c:\\xampp\\htdocs\\Nueva carpeta\\index.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "Nueva carpeta",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 1
+      },
+      "changeFrequency": {
+        "7": 1
+      },
+      "topFiles": [
+        "c:\\xampp\\htdocs\\Nueva carpeta\\index.html"
+      ],
+      "averageChangeSize": 3
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    7
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}
