@@ -1,20 +1,17 @@
-# OFICINA - Activity Summary 
+# includes - Activity Summary 
 
 ## Overall Statistics
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 747                                          |
-| **Lines Removed** (➖) | 234                                        |
-| **Net Change** (↕)    | 513                |
-| **Active Time** (⌚)   | 31 minutes |
+| **Lines Added** (➕)   | 59                                          |
+| **Lines Removed** (➖) | 0                                        |
+| **Net Change** (↕)    | 59                |
+| **Active Time** (⌚)   | 2 minutes |
 
 
 ## Modified Files
-- **recuperar_psw.php** (+386, -202)
-- **login.php** (+150, -2)
-- **authenticate.php** (+133, -0)
-- **recu_datos.php** (+78, -30)
+- **head.php** (+59, -0)
 
 ## Visualizations
 
@@ -23,7 +20,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 981
+".php" : 59
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,9 +28,7 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"10h" : 7
-"12h" : 1
-"13h" : 11
+"13h" : 1
 ```
 
 
