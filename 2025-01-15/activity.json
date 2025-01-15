@@ -2,7 +2,7 @@
   "date": "2025-01-15",
   "projects": {
     "OFICINA": {
-      "totalLinesAdded": 0,
+      "totalLinesAdded": 88,
       "totalLinesRemoved": 2,
       "totalActiveTime": 0,
       "files": {
@@ -27,6 +27,22 @@
             "fileType": ".php",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "OFICINA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\recu_datos.php": [
+          {
+            "timestamp": "2025-01-15T14:34:34.405Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\recu_datos.php",
+            "fileType": ".php",
+            "linesAdded": 88,
+            "linesRemoved": 0,
             "projectName": "OFICINA",
             "content": {
               "added": [],
