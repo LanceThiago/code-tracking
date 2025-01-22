@@ -151,9 +151,9 @@
       "averageChangeSize": 122
     },
     "includes": {
-      "totalLinesAdded": 141,
-      "totalLinesRemoved": 47,
-      "totalActiveTime": 17,
+      "totalLinesAdded": 234,
+      "totalLinesRemoved": 65,
+      "totalActiveTime": 24,
       "files": {
         "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\includes\\footer.php": [
           {
@@ -308,6 +308,92 @@
               "removed": []
             },
             "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-01-22T15:18:11.022Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\includes\\footer.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "includes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-01-22T15:18:34.212Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\includes\\footer.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "includes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-01-22T15:18:56.428Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\includes\\footer.php",
+            "fileType": ".php",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "includes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-01-22T15:19:12.852Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\includes\\footer.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 16,
+            "projectName": "includes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-01-22T15:19:19.860Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\includes\\footer.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "includes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\includes\\navbar.php": [
+          {
+            "timestamp": "2025-01-22T15:17:00.677Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\includes\\navbar.php",
+            "fileType": ".php",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "includes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ]
