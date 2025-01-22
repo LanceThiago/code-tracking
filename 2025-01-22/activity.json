@@ -151,9 +151,9 @@
       "averageChangeSize": 122
     },
     "includes": {
-      "totalLinesAdded": 103,
+      "totalLinesAdded": 123,
       "totalLinesRemoved": 17,
-      "totalActiveTime": 4,
+      "totalActiveTime": 10,
       "files": {
         "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\includes\\footer.php": [
           {
@@ -204,6 +204,34 @@
             "fileType": ".php",
             "linesAdded": 0,
             "linesRemoved": 5,
+            "projectName": "includes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-01-22T15:02:27.899Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\includes\\footer.php",
+            "fileType": ".php",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "includes",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-01-22T15:03:59.844Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\includes\\footer.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
             "projectName": "includes",
             "content": {
               "added": [],
