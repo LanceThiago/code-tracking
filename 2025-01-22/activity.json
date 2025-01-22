@@ -3,8 +3,8 @@
   "projects": {
     "OFICINA": {
       "totalLinesAdded": 308,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 8,
+      "totalLinesRemoved": 72,
+      "totalActiveTime": 12,
       "files": {
         "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\recu_datos.php": [
           {
@@ -61,6 +61,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-01-22T14:18:58.148Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\recu_datos.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 71,
+            "projectName": "OFICINA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "php"
           }
         ],
