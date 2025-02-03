@@ -1,0 +1,81 @@
+{
+  "date": "2025-02-03",
+  "projects": {
+    "totem": {
+      "totalLinesAdded": 690,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\facturacion.php": [
+          {
+            "timestamp": "2025-02-03T11:58:22.447Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\facturacion.php",
+            "fileType": ".php",
+            "linesAdded": 396,
+            "linesRemoved": 0,
+            "projectName": "totem",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ],
+        "\\\\totem-pc\\xampp\\htdocs\\totem\\verf_metodo_ultima.php": [
+          {
+            "timestamp": "2025-02-03T11:58:39.997Z",
+            "fileName": "\\\\totem-pc\\xampp\\htdocs\\totem\\verf_metodo_ultima.php",
+            "fileType": ".php",
+            "linesAdded": 130,
+            "linesRemoved": 0,
+            "projectName": "totem",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "\\\\totem-pc\\xampp\\htdocs\\totem\\periodo.php": [
+          {
+            "timestamp": "2025-02-03T11:58:54.075Z",
+            "fileName": "\\\\totem-pc\\xampp\\htdocs\\totem\\periodo.php",
+            "fileType": ".php",
+            "linesAdded": 164,
+            "linesRemoved": 0,
+            "projectName": "totem",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 2
+      },
+      "changeFrequency": {
+        "8": 2
+      },
+      "topFiles": [
+        "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\facturacion.php",
+        "\\\\totem-pc\\xampp\\htdocs\\totem\\verf_metodo_ultima.php",
+        "\\\\totem-pc\\xampp\\htdocs\\totem\\periodo.php"
+      ],
+      "averageChangeSize": 230
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
