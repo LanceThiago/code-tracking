@@ -2,9 +2,9 @@
   "date": "2025-02-17",
   "projects": {
     "totem": {
-      "totalLinesAdded": 341,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 11,
+      "totalLinesAdded": 392,
+      "totalLinesRemoved": 4,
+      "totalActiveTime": 17,
       "files": {
         "\\\\totem-pc\\xampp\\htdocs\\totem\\periodo.php": [
           {
@@ -90,6 +90,34 @@
             },
             "duration": 2,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-02-17T13:39:18.223Z",
+            "fileName": "\\\\totem-pc\\xampp\\htdocs\\totem\\periodo.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "totem",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-02-17T13:39:29.026Z",
+            "fileName": "\\\\totem-pc\\xampp\\htdocs\\totem\\periodo.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "totem",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
           }
         ],
         "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\index.php": [
@@ -114,6 +142,36 @@
             "fileName": "\\\\totem-pc\\xampp\\htdocs\\totem\\index.php",
             "fileType": ".php",
             "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "totem",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "\\\\totem-pc\\xampp\\htdocs\\totem\\index-test.php": [
+          {
+            "timestamp": "2025-02-17T13:36:19.969Z",
+            "fileName": "\\\\totem-pc\\xampp\\htdocs\\totem\\index-test.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "totem",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-02-17T13:36:38.650Z",
+            "fileName": "\\\\totem-pc\\xampp\\htdocs\\totem\\index-test.php",
+            "fileType": ".php",
+            "linesAdded": 50,
             "linesRemoved": 0,
             "projectName": "totem",
             "content": {
