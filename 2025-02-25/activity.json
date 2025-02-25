@@ -1,0 +1,61 @@
+{
+  "date": "2025-02-25",
+  "projects": {
+    "-6e60fb39": {
+      "totalLinesAdded": 72,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\profiles\\-6e60fb39\\settings.json": [
+          {
+            "timestamp": "2025-02-25T18:01:55.001Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\profiles\\-6e60fb39\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "-6e60fb39",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-25T18:04:29.189Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\profiles\\-6e60fb39\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "-6e60fb39",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "15": 0
+      },
+      "topFiles": [
+        "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\profiles\\-6e60fb39\\settings.json"
+      ],
+      "averageChangeSize": 36
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    15
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
