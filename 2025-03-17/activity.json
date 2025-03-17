@@ -35,9 +35,9 @@
       "averageChangeSize": 69
     },
     "web": {
-      "totalLinesAdded": 330,
+      "totalLinesAdded": 358,
       "totalLinesRemoved": 40,
-      "totalActiveTime": 16,
+      "totalActiveTime": 20,
       "files": {
         "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\sidebar-cestel.php": [
           {
@@ -59,6 +59,20 @@
             "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\sidebar-cestel.php",
             "fileType": ".php",
             "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-17T16:54:34.059Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\sidebar-cestel.php",
+            "fileType": ".php",
+            "linesAdded": 27,
             "linesRemoved": 0,
             "projectName": "web",
             "content": {
@@ -226,6 +240,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-17T16:54:22.263Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\head.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "php"
           }
         ]
