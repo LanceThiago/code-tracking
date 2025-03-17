@@ -35,9 +35,9 @@
       "averageChangeSize": 69
     },
     "web": {
-      "totalLinesAdded": 358,
-      "totalLinesRemoved": 40,
-      "totalActiveTime": 20,
+      "totalLinesAdded": 359,
+      "totalLinesRemoved": 45,
+      "totalActiveTime": 21,
       "files": {
         "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\sidebar-cestel.php": [
           {
@@ -74,6 +74,20 @@
             "fileType": ".php",
             "linesAdded": 27,
             "linesRemoved": 0,
+            "projectName": "web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-17T17:05:12.221Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\sidebar-cestel.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 5,
             "projectName": "web",
             "content": {
               "added": [],
@@ -254,6 +268,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-17T17:05:03.782Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\head.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ]
