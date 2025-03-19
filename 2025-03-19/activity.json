@@ -93,6 +93,39 @@
         "c:\\ms4w\\apps\\EnerGis.map"
       ],
       "averageChangeSize": 7.4
+    },
+    "EnerGis": {
+      "totalLinesAdded": 24,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\ms4w\\apps\\EnerGis\\EnerGis.map": [
+          {
+            "timestamp": "2025-03-19T15:10:55.310Z",
+            "fileName": "c:\\ms4w\\apps\\EnerGis\\EnerGis.map",
+            "fileType": ".map",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "EnerGis",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "map"
+          }
+        ]
+      },
+      "languageStats": {
+        "map": 0
+      },
+      "changeFrequency": {
+        "12": 0
+      },
+      "topFiles": [
+        "c:\\ms4w\\apps\\EnerGis\\EnerGis.map"
+      ],
+      "averageChangeSize": 24
     }
   },
   "totalActiveTime": 4,
