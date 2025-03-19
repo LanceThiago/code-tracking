@@ -95,9 +95,9 @@
       "averageChangeSize": 7.4
     },
     "EnerGis": {
-      "totalLinesAdded": 50,
+      "totalLinesAdded": 731,
       "totalLinesRemoved": 8,
-      "totalActiveTime": 0,
+      "totalActiveTime": 5,
       "files": {
         "c:\\ms4w\\apps\\EnerGis\\EnerGis.map": [
           {
@@ -157,6 +157,22 @@
             },
             "duration": 0,
             "language": "html"
+          }
+        ],
+        "c:\\ms4w\\Apache\\conf\\httpd.conf": [
+          {
+            "timestamp": "2025-03-19T17:46:15.023Z",
+            "fileName": "c:\\ms4w\\Apache\\conf\\httpd.conf",
+            "fileType": ".conf",
+            "linesAdded": 681,
+            "linesRemoved": 0,
+            "projectName": "EnerGis",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "conf"
           }
         ]
       },
