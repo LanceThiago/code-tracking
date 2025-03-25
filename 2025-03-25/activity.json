@@ -35,9 +35,9 @@
       "averageChangeSize": 33
     },
     "KML": {
-      "totalLinesAdded": 116,
+      "totalLinesAdded": 483,
       "totalLinesRemoved": 38,
-      "totalActiveTime": 13,
+      "totalActiveTime": 16,
       "files": {
         "c:\\xampp\\htdocs\\KML\\index.php": [
           {
@@ -150,6 +150,66 @@
               "removed": []
             },
             "duration": 4,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-25T17:47:37.451Z",
+            "fileName": "c:\\xampp\\htdocs\\KML\\index.php",
+            "fileType": ".php",
+            "linesAdded": 78,
+            "linesRemoved": 0,
+            "projectName": "KML",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-25T17:47:39.047Z",
+            "fileName": "c:\\xampp\\htdocs\\KML\\index.php",
+            "fileType": ".php",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "KML",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\script.js": [
+          {
+            "timestamp": "2025-03-25T17:47:26.208Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\script.js",
+            "fileType": ".js",
+            "linesAdded": 83,
+            "linesRemoved": 0,
+            "projectName": "KML",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          }
+        ],
+        "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\head.php": [
+          {
+            "timestamp": "2025-03-25T17:47:33.650Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\head.php",
+            "fileType": ".php",
+            "linesAdded": 201,
+            "linesRemoved": 0,
+            "projectName": "KML",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ]
