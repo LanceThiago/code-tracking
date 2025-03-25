@@ -35,9 +35,9 @@
       "averageChangeSize": 33
     },
     "KML": {
-      "totalLinesAdded": 33,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 61,
+      "totalLinesRemoved": 28,
+      "totalActiveTime": 1,
       "files": {
         "c:\\xampp\\htdocs\\KML\\index.php": [
           {
@@ -52,6 +52,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-25T15:26:34.056Z",
+            "fileName": "c:\\xampp\\htdocs\\KML\\index.php",
+            "fileType": ".php",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "KML",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-25T15:27:32.070Z",
+            "fileName": "c:\\xampp\\htdocs\\KML\\index.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 28,
+            "projectName": "KML",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ]
