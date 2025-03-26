@@ -2,7 +2,7 @@
   "date": "2025-03-26",
   "projects": {
     "KML": {
-      "totalLinesAdded": 556323,
+      "totalLinesAdded": 556358,
       "totalLinesRemoved": 118,
       "totalActiveTime": 71,
       "files": {
@@ -604,6 +604,22 @@
             },
             "duration": 0,
             "language": "kml"
+          }
+        ],
+        "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\profiles\\-6e60fb39\\settings.json": [
+          {
+            "timestamp": "2025-03-26T15:02:55.471Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\profiles\\-6e60fb39\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "KML",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
