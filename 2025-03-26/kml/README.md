@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 347                                          |
-| **Lines Removed** (➖) | 62                                        |
-| **Net Change** (↕)    | 285                |
-| **Active Time** (⌚)   | 41 minutes |
+| **Lines Added** (➕)   | 393                                          |
+| **Lines Removed** (➖) | 91                                        |
+| **Net Change** (↕)    | 302                |
+| **Active Time** (⌚)   | 48 minutes |
 
 
 ## Modified Files
 - **index.php** (+307, -62)
 - **WebWorker.js** (+1, -0)
-- **kmlWorker.js** (+29, -0)
-- **webpack.config.js** (+10, -0)
+- **kmlWorker.js** (+60, -27)
+- **webpack.config.js** (+25, -2)
 
 ## Visualizations
 
@@ -24,7 +24,7 @@
 pie showData
 title Lines changed by file type
 ".php" : 369
-".js" : 40
+".js" : 115
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +34,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "08h" : 2
 "09h" : 13
-"10h" : 10
+"10h" : 14
 ```
 
 
-> **Last Updated:** 3/26/2025, 10:40:58 AM
+> **Last Updated:** 3/26/2025, 10:45:58 AM
