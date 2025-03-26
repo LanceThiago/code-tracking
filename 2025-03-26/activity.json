@@ -3,8 +3,8 @@
   "projects": {
     "KML": {
       "totalLinesAdded": 252,
-      "totalLinesRemoved": 22,
-      "totalActiveTime": 10,
+      "totalLinesRemoved": 36,
+      "totalActiveTime": 14,
       "files": {
         "c:\\xampp\\htdocs\\KML\\index.php": [
           {
@@ -117,6 +117,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-03-26T12:11:08.651Z",
+            "fileName": "c:\\xampp\\htdocs\\KML\\index.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 14,
+            "projectName": "KML",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "php"
           }
         ]
