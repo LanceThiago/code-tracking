@@ -2,7 +2,7 @@
   "date": "2025-03-27",
   "projects": {
     "KML": {
-      "totalLinesAdded": 202,
+      "totalLinesAdded": 556077,
       "totalLinesRemoved": 13,
       "totalActiveTime": 23,
       "files": {
@@ -212,6 +212,22 @@
             },
             "duration": 4,
             "language": "js"
+          }
+        ],
+        "c:\\xampp\\htdocs\\KML\\my-app\\EnerGis.kml": [
+          {
+            "timestamp": "2025-03-27T13:29:41.453Z",
+            "fileName": "c:\\xampp\\htdocs\\KML\\my-app\\EnerGis.kml",
+            "fileType": ".kml",
+            "linesAdded": 555875,
+            "linesRemoved": 0,
+            "projectName": "KML",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "kml"
           }
         ]
       },
