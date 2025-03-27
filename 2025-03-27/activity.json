@@ -2,9 +2,9 @@
   "date": "2025-03-27",
   "projects": {
     "KML": {
-      "totalLinesAdded": 132,
-      "totalLinesRemoved": 12,
-      "totalActiveTime": 15,
+      "totalLinesAdded": 201,
+      "totalLinesRemoved": 13,
+      "totalActiveTime": 19,
       "files": {
         "c:\\xampp\\htdocs\\KML\\package.json": [
           {
@@ -169,6 +169,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-27T13:13:48.067Z",
+            "fileName": "c:\\xampp\\htdocs\\KML\\my-app\\main.js",
+            "fileType": ".js",
+            "linesAdded": 69,
+            "linesRemoved": 0,
+            "projectName": "KML",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "js"
+          },
+          {
+            "timestamp": "2025-03-27T13:17:43.647Z",
+            "fileName": "c:\\xampp\\htdocs\\KML\\my-app\\main.js",
+            "fileType": ".js",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "KML",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "js"
           }
         ]
