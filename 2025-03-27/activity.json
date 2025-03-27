@@ -1,0 +1,61 @@
+{
+  "date": "2025-03-27",
+  "projects": {
+    "KML": {
+      "totalLinesAdded": 23,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\xampp\\htdocs\\KML\\package.json": [
+          {
+            "timestamp": "2025-03-27T12:51:51.286Z",
+            "fileName": "c:\\xampp\\htdocs\\KML\\package.json",
+            "fileType": ".json",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "KML",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-27T12:54:03.159Z",
+            "fileName": "c:\\xampp\\htdocs\\KML\\package.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "KML",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 3
+      },
+      "changeFrequency": {
+        "9": 3
+      },
+      "topFiles": [
+        "c:\\xampp\\htdocs\\KML\\package.json"
+      ],
+      "averageChangeSize": 11.5
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
