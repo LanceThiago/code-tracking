@@ -89,6 +89,39 @@
         "\\\\TOTEM-PC\\xampp\\htdocs\\totem\\periodo.php"
       ],
       "averageChangeSize": 60
+    },
+    "OFICINA": {
+      "totalLinesAdded": 396,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\facturacion.php": [
+          {
+            "timestamp": "2025-04-07T16:22:22.151Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\facturacion.php",
+            "fileType": ".php",
+            "linesAdded": 396,
+            "linesRemoved": 0,
+            "projectName": "OFICINA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 0
+      },
+      "changeFrequency": {
+        "13": 0
+      },
+      "topFiles": [
+        "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\facturacion.php"
+      ],
+      "averageChangeSize": 396
     }
   },
   "totalActiveTime": 4,
