@@ -1,0 +1,47 @@
+{
+  "date": "2025-04-16",
+  "projects": {
+    "Documents": {
+      "totalLinesAdded": 11,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\thiag\\Documents\\Mail Facturacion.txt": [
+          {
+            "timestamp": "2025-04-16T11:46:18.557Z",
+            "fileName": "c:\\Users\\thiag\\Documents\\Mail Facturacion.txt",
+            "fileType": ".txt",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "Documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 0
+      },
+      "changeFrequency": {
+        "8": 0
+      },
+      "topFiles": [
+        "c:\\Users\\thiag\\Documents\\Mail Facturacion.txt"
+      ],
+      "averageChangeSize": 11
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "txt"
+  ]
+}
