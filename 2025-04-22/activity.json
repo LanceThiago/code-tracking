@@ -35,7 +35,7 @@
       "averageChangeSize": 11
     },
     "web": {
-      "totalLinesAdded": 179,
+      "totalLinesAdded": 182,
       "totalLinesRemoved": 53,
       "totalActiveTime": 11,
       "files": {
@@ -124,6 +124,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-22T13:33:33.078Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\segtarifaria.php",
+            "fileType": ".php",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ],
