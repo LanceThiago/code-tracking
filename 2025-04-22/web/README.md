@@ -4,16 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 182                                          |
+| **Lines Added** (➕)   | 396                                          |
 | **Lines Removed** (➖) | 53                                        |
-| **Net Change** (↕)    | 129                |
-| **Active Time** (⌚)   | 11 minutes |
+| **Net Change** (↕)    | 343                |
+| **Active Time** (⌚)   | 14 minutes |
 
 
 ## Modified Files
 - **subsidio.php** (+28, -0)
 - **segtarifaria.php** (+76, -53)
 - **sidebar-energia.php** (+78, -0)
+- **head.php** (+214, -0)
 
 ## Visualizations
 
@@ -22,7 +23,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 235
+".php" : 449
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,8 +32,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "08h" : 7
-"10h" : 1
+"10h" : 2
 ```
 
 
-> **Last Updated:** 4/22/2025, 10:35:51 AM
+> **Last Updated:** 4/22/2025, 10:40:51 AM
