@@ -117,6 +117,39 @@
         "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\cuadro-tarf.php"
       ],
       "averageChangeSize": 10
+    },
+    "Documents": {
+      "totalLinesAdded": 79,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\thiag\\Documents\\tramites.sql": [
+          {
+            "timestamp": "2025-04-23T12:57:51.682Z",
+            "fileName": "c:\\Users\\thiag\\Documents\\tramites.sql",
+            "fileType": ".sql",
+            "linesAdded": 79,
+            "linesRemoved": 0,
+            "projectName": "Documents",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          }
+        ]
+      },
+      "languageStats": {
+        "sql": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "c:\\Users\\thiag\\Documents\\tramites.sql"
+      ],
+      "averageChangeSize": 79
     }
   },
   "totalActiveTime": 2,
