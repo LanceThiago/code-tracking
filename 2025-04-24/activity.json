@@ -217,9 +217,9 @@
       "averageChangeSize": 1064.3333333333333
     },
     "ENRE - Calculadora de consumo v.2022_files": {
-      "totalLinesAdded": 23847,
-      "totalLinesRemoved": 28,
-      "totalActiveTime": 45,
+      "totalLinesAdded": 28587,
+      "totalLinesRemoved": 302,
+      "totalActiveTime": 56,
       "files": {
         "c:\\Users\\thiag\\Desktop\\ENRE - Calculadora de consumo v.2022_files\\ENRE - Calculadora de consumo v.2022.html": [
           {
@@ -603,6 +603,66 @@
             },
             "duration": 4,
             "language": "unknown"
+          }
+        ],
+        "c:\\Users\\thiag\\Desktop\\ENRE - Calculadora de consumo v.2022_files\\test.html": [
+          {
+            "timestamp": "2025-04-24T17:09:09.533Z",
+            "fileName": "c:\\Users\\thiag\\Desktop\\ENRE - Calculadora de consumo v.2022_files\\test.html",
+            "fileType": ".html",
+            "linesAdded": 2370,
+            "linesRemoved": 0,
+            "projectName": "ENRE - Calculadora de consumo v.2022_files",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-04-24T17:09:16.246Z",
+            "fileName": "c:\\Users\\thiag\\Desktop\\ENRE - Calculadora de consumo v.2022_files\\test.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 137,
+            "projectName": "ENRE - Calculadora de consumo v.2022_files",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "c:\\Users\\thiag\\Desktop\\ENRE - Calculadora de consumo v.2022_files\\test2.html": [
+          {
+            "timestamp": "2025-04-24T17:12:48.605Z",
+            "fileName": "c:\\Users\\thiag\\Desktop\\ENRE - Calculadora de consumo v.2022_files\\test2.html",
+            "fileType": ".html",
+            "linesAdded": 2370,
+            "linesRemoved": 0,
+            "projectName": "ENRE - Calculadora de consumo v.2022_files",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-04-24T17:13:18.209Z",
+            "fileName": "c:\\Users\\thiag\\Desktop\\ENRE - Calculadora de consumo v.2022_files\\test2.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 137,
+            "projectName": "ENRE - Calculadora de consumo v.2022_files",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ]
       },
