@@ -1,0 +1,75 @@
+{
+  "date": "2025-04-24",
+  "projects": {
+    "Desktop": {
+      "totalLinesAdded": 2345,
+      "totalLinesRemoved": 848,
+      "totalActiveTime": 4,
+      "files": {
+        "c:\\Users\\thiag\\Desktop\\ENRE - Calculadora de consumo v.2022.html": [
+          {
+            "timestamp": "2025-04-24T13:45:13.272Z",
+            "fileName": "c:\\Users\\thiag\\Desktop\\ENRE - Calculadora de consumo v.2022.html",
+            "fileType": ".html",
+            "linesAdded": 2345,
+            "linesRemoved": 0,
+            "projectName": "Desktop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-04-24T13:47:20.031Z",
+            "fileName": "c:\\Users\\thiag\\Desktop\\ENRE - Calculadora de consumo v.2022.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 847,
+            "projectName": "Desktop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-04-24T13:47:58.999Z",
+            "fileName": "c:\\Users\\thiag\\Desktop\\ENRE - Calculadora de consumo v.2022.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Desktop",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 4
+      },
+      "changeFrequency": {
+        "10": 4
+      },
+      "topFiles": [
+        "c:\\Users\\thiag\\Desktop\\ENRE - Calculadora de consumo v.2022.html"
+      ],
+      "averageChangeSize": 1064.3333333333333
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}
