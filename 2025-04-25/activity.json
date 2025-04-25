@@ -3,8 +3,8 @@
   "projects": {
     "ENRE - Calculadora de consumo v.2022_files": {
       "totalLinesAdded": 0,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 0,
+      "totalLinesRemoved": 14,
+      "totalActiveTime": 8,
       "files": {
         "c:\\Users\\thiag\\Desktop\\ENRE - Calculadora de consumo v.2022_files\\test2.html": [
           {
@@ -33,6 +33,48 @@
               "removed": []
             },
             "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-04-25T15:29:11.905Z",
+            "fileName": "c:\\Users\\thiag\\Desktop\\ENRE - Calculadora de consumo v.2022_files\\test2.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "ENRE - Calculadora de consumo v.2022_files",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-04-25T15:29:42.569Z",
+            "fileName": "c:\\Users\\thiag\\Desktop\\ENRE - Calculadora de consumo v.2022_files\\test2.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "ENRE - Calculadora de consumo v.2022_files",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-04-25T15:32:20.692Z",
+            "fileName": "c:\\Users\\thiag\\Desktop\\ENRE - Calculadora de consumo v.2022_files\\test2.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "ENRE - Calculadora de consumo v.2022_files",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "html"
           }
         ]
