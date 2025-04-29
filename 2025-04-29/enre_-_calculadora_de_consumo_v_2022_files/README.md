@@ -5,13 +5,13 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 19                                          |
-| **Lines Removed** (➖) | 13                                        |
-| **Net Change** (↕)    | 6                |
+| **Lines Removed** (➖) | 65                                        |
+| **Net Change** (↕)    | -46                |
 | **Active Time** (⌚)   | 16 minutes |
 
 
 ## Modified Files
-- **test2.html** (+19, -13)
+- **test2.html** (+19, -65)
 
 ## Visualizations
 
@@ -20,7 +20,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".html" : 32
+".html" : 84
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +29,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "07h" : 1
-"10h" : 10
+"10h" : 11
 ```
 
 
-> **Last Updated:** 4/29/2025, 10:45:41 AM
+> **Last Updated:** 4/29/2025, 11:00:41 AM

@@ -3,7 +3,7 @@
   "projects": {
     "ENRE - Calculadora de consumo v.2022_files": {
       "totalLinesAdded": 19,
-      "totalLinesRemoved": 13,
+      "totalLinesRemoved": 65,
       "totalActiveTime": 16,
       "files": {
         "c:\\Users\\thiag\\Desktop\\ENRE - Calculadora de consumo v.2022_files\\test2.html": [
@@ -159,6 +159,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-04-29T13:57:20.194Z",
+            "fileName": "c:\\Users\\thiag\\Desktop\\ENRE - Calculadora de consumo v.2022_files\\test2.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 52,
+            "projectName": "ENRE - Calculadora de consumo v.2022_files",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "html"
           }
         ]
