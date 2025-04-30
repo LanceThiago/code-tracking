@@ -106,8 +106,8 @@
     },
     "web": {
       "totalLinesAdded": 2199,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 7,
       "files": {
         "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\test2.php": [
           {
@@ -122,6 +122,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-04-30T15:43:23.237Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\test2.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "php"
           }
         ],
