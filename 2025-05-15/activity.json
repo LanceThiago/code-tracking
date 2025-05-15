@@ -2,9 +2,9 @@
   "date": "2025-05-15",
   "projects": {
     "JOGO": {
-      "totalLinesAdded": 122,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 13,
+      "totalLinesAdded": 136,
+      "totalLinesRemoved": 15,
+      "totalActiveTime": 20,
       "files": {
         "c:\\xampp\\htdocs\\JOGO\\INDEX.PHP": [
           {
@@ -118,6 +118,48 @@
             },
             "duration": 2,
             "language": "PHP"
+          },
+          {
+            "timestamp": "2025-05-15T14:28:42.732Z",
+            "fileName": "c:\\xampp\\htdocs\\JOGO\\INDEX.PHP",
+            "fileType": ".PHP",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "JOGO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "PHP"
+          },
+          {
+            "timestamp": "2025-05-15T14:30:01.349Z",
+            "fileName": "c:\\xampp\\htdocs\\JOGO\\INDEX.PHP",
+            "fileType": ".PHP",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "JOGO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "PHP"
+          },
+          {
+            "timestamp": "2025-05-15T14:30:22.974Z",
+            "fileName": "c:\\xampp\\htdocs\\JOGO\\INDEX.PHP",
+            "fileType": ".PHP",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "JOGO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "PHP"
           }
         ],
         "c:\\xampp\\htdocs\\JOGO\\respuesta.php": [
@@ -148,6 +190,50 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2025-05-15T14:30:28.323Z",
+            "fileName": "c:\\xampp\\htdocs\\JOGO\\respuesta.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JOGO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\xampp\\htdocs\\JOGO\\styles.css": [
+          {
+            "timestamp": "2025-05-15T14:29:59.011Z",
+            "fileName": "c:\\xampp\\htdocs\\JOGO\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JOGO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-05-15T14:30:00.371Z",
+            "fileName": "c:\\xampp\\htdocs\\JOGO\\styles.css",
+            "fileType": ".css",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "JOGO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
