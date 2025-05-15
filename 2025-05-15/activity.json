@@ -2,9 +2,9 @@
   "date": "2025-05-15",
   "projects": {
     "JOGO": {
-      "totalLinesAdded": 116,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 11,
+      "totalLinesAdded": 122,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 13,
       "files": {
         "c:\\xampp\\htdocs\\JOGO\\INDEX.PHP": [
           {
@@ -89,6 +89,34 @@
               "removed": []
             },
             "duration": 4,
+            "language": "PHP"
+          },
+          {
+            "timestamp": "2025-05-15T14:26:26.796Z",
+            "fileName": "c:\\xampp\\htdocs\\JOGO\\INDEX.PHP",
+            "fileType": ".PHP",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "JOGO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "PHP"
+          },
+          {
+            "timestamp": "2025-05-15T14:27:42.779Z",
+            "fileName": "c:\\xampp\\htdocs\\JOGO\\INDEX.PHP",
+            "fileType": ".PHP",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "JOGO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "PHP"
           }
         ],
