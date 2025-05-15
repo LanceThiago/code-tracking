@@ -3,7 +3,7 @@
   "projects": {
     "JOGO": {
       "totalLinesAdded": 455,
-      "totalLinesRemoved": 18,
+      "totalLinesRemoved": 19,
       "totalActiveTime": 40,
       "files": {
         "c:\\xampp\\htdocs\\JOGO\\INDEX.PHP": [
@@ -271,6 +271,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "PHP"
+          },
+          {
+            "timestamp": "2025-05-15T15:30:36.840Z",
+            "fileName": "c:\\xampp\\htdocs\\JOGO\\INDEX.PHP",
+            "fileType": ".PHP",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "JOGO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "PHP"
           }
         ],
