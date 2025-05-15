@@ -1,0 +1,75 @@
+{
+  "date": "2025-05-15",
+  "projects": {
+    "JOGO": {
+      "totalLinesAdded": 13,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\xampp\\htdocs\\JOGO\\INDEX.PHP": [
+          {
+            "timestamp": "2025-05-15T13:34:32.785Z",
+            "fileName": "c:\\xampp\\htdocs\\JOGO\\INDEX.PHP",
+            "fileType": ".PHP",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JOGO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "PHP"
+          },
+          {
+            "timestamp": "2025-05-15T13:34:45.649Z",
+            "fileName": "c:\\xampp\\htdocs\\JOGO\\INDEX.PHP",
+            "fileType": ".PHP",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "JOGO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "PHP"
+          },
+          {
+            "timestamp": "2025-05-15T13:35:00.544Z",
+            "fileName": "c:\\xampp\\htdocs\\JOGO\\INDEX.PHP",
+            "fileType": ".PHP",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "JOGO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "PHP"
+          }
+        ]
+      },
+      "languageStats": {
+        "PHP": 2
+      },
+      "changeFrequency": {
+        "10": 2
+      },
+      "topFiles": [
+        "c:\\xampp\\htdocs\\JOGO\\INDEX.PHP"
+      ],
+      "averageChangeSize": 4.333333333333333
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "PHP"
+  ]
+}
