@@ -231,6 +231,53 @@
         "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\test.php"
       ],
       "averageChangeSize": 16.5
+    },
+    "qrcodejs-master": {
+      "totalLinesAdded": 46,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\thiag\\Downloads\\qrcodejs-master\\index.html": [
+          {
+            "timestamp": "2025-06-05T17:02:35.812Z",
+            "fileName": "c:\\Users\\thiag\\Downloads\\qrcodejs-master\\index.html",
+            "fileType": ".html",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "qrcodejs-master",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-06-05T17:03:03.804Z",
+            "fileName": "c:\\Users\\thiag\\Downloads\\qrcodejs-master\\index.html",
+            "fileType": ".html",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "qrcodejs-master",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 1
+      },
+      "changeFrequency": {
+        "14": 1
+      },
+      "topFiles": [
+        "c:\\Users\\thiag\\Downloads\\qrcodejs-master\\index.html"
+      ],
+      "averageChangeSize": 23
     }
   },
   "totalActiveTime": 5,
