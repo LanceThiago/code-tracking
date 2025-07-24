@@ -1,0 +1,47 @@
+{
+  "date": "2025-07-24",
+  "projects": {
+    "Downloads": {
+      "totalLinesAdded": 1125,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\thiag\\Downloads\\usuarios_sorteo_202507.txt": [
+          {
+            "timestamp": "2025-07-24T11:56:12.019Z",
+            "fileName": "c:\\Users\\thiag\\Downloads\\usuarios_sorteo_202507.txt",
+            "fileType": ".txt",
+            "linesAdded": 1125,
+            "linesRemoved": 0,
+            "projectName": "Downloads",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 0
+      },
+      "changeFrequency": {
+        "8": 0
+      },
+      "topFiles": [
+        "c:\\Users\\thiag\\Downloads\\usuarios_sorteo_202507.txt"
+      ],
+      "averageChangeSize": 1125
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "txt"
+  ]
+}
