@@ -1,0 +1,81 @@
+{
+  "date": "2025-08-21",
+  "projects": {
+    "MAILLOG": {
+      "totalLinesAdded": 23996,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 4,
+      "files": {
+        "c:\\Users\\thiag\\Downloads\\MAILLOG\\4.txt": [
+          {
+            "timestamp": "2025-08-21T11:43:11.010Z",
+            "fileName": "c:\\Users\\thiag\\Downloads\\MAILLOG\\4.txt",
+            "fileType": ".txt",
+            "linesAdded": 9186,
+            "linesRemoved": 0,
+            "projectName": "MAILLOG",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\thiag\\Downloads\\MAILLOG\\1.txt": [
+          {
+            "timestamp": "2025-08-21T11:45:14.899Z",
+            "fileName": "c:\\Users\\thiag\\Downloads\\MAILLOG\\1.txt",
+            "fileType": ".txt",
+            "linesAdded": 8561,
+            "linesRemoved": 0,
+            "projectName": "MAILLOG",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\thiag\\Downloads\\MAILLOG\\0.txt": [
+          {
+            "timestamp": "2025-08-21T11:45:32.951Z",
+            "fileName": "c:\\Users\\thiag\\Downloads\\MAILLOG\\0.txt",
+            "fileType": ".txt",
+            "linesAdded": 6249,
+            "linesRemoved": 0,
+            "projectName": "MAILLOG",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 4
+      },
+      "changeFrequency": {
+        "8": 4
+      },
+      "topFiles": [
+        "c:\\Users\\thiag\\Downloads\\MAILLOG\\4.txt",
+        "c:\\Users\\thiag\\Downloads\\MAILLOG\\1.txt",
+        "c:\\Users\\thiag\\Downloads\\MAILLOG\\0.txt"
+      ],
+      "averageChangeSize": 7998.666666666667
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "txt"
+  ]
+}
