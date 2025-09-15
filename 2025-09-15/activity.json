@@ -1,0 +1,61 @@
+{
+  "date": "2025-09-15",
+  "projects": {
+    "totem2": {
+      "totalLinesAdded": 197,
+      "totalLinesRemoved": 26,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\xampp\\htdocs\\totem2\\busca_por.php": [
+          {
+            "timestamp": "2025-09-15T15:01:23.159Z",
+            "fileName": "c:\\xampp\\htdocs\\totem2\\busca_por.php",
+            "fileType": ".php",
+            "linesAdded": 197,
+            "linesRemoved": 0,
+            "projectName": "totem2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-09-15T15:03:02.861Z",
+            "fileName": "c:\\xampp\\htdocs\\totem2\\busca_por.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 26,
+            "projectName": "totem2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 2
+      },
+      "changeFrequency": {
+        "12": 2
+      },
+      "topFiles": [
+        "c:\\xampp\\htdocs\\totem2\\busca_por.php"
+      ],
+      "averageChangeSize": 111.5
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
