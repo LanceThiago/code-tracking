@@ -1,0 +1,47 @@
+{
+  "date": "2025-09-24",
+  "projects": {
+    "OFICINA": {
+      "totalLinesAdded": 413,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\facturacion.php": [
+          {
+            "timestamp": "2025-09-24T16:17:02.809Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\facturacion.php",
+            "fileType": ".php",
+            "linesAdded": 413,
+            "linesRemoved": 0,
+            "projectName": "OFICINA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 0
+      },
+      "changeFrequency": {
+        "13": 0
+      },
+      "topFiles": [
+        "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\facturacion.php"
+      ],
+      "averageChangeSize": 413
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    13
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
