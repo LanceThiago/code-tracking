@@ -3,8 +3,8 @@
   "projects": {
     "totem2": {
       "totalLinesAdded": 227,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 8,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 14,
       "files": {
         "c:\\xampp\\htdocs\\totem2\\index.php": [
           {
@@ -83,6 +83,34 @@
             "fileType": ".php",
             "linesAdded": 4,
             "linesRemoved": 0,
+            "projectName": "totem2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-01T16:16:31.125Z",
+            "fileName": "c:\\xampp\\htdocs\\totem2\\index.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "totem2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-01T16:18:34.588Z",
+            "fileName": "c:\\xampp\\htdocs\\totem2\\index.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "totem2",
             "content": {
               "added": [],
