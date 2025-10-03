@@ -3,7 +3,7 @@
   "projects": {
     "totem2": {
       "totalLinesAdded": 1102,
-      "totalLinesRemoved": 339,
+      "totalLinesRemoved": 340,
       "totalActiveTime": 115,
       "files": {
         "c:\\xampp\\htdocs\\totem2\\index.php": [
@@ -977,6 +977,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-10-03T18:14:43.919Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\buscador.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "totem2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ]
