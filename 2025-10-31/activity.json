@@ -1,0 +1,47 @@
+{
+  "date": "2025-10-31",
+  "projects": {
+    "Downloads": {
+      "totalLinesAdded": 992,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\thiag\\Downloads\\Queued local.txt": [
+          {
+            "timestamp": "2025-10-31T10:51:24.986Z",
+            "fileName": "c:\\Users\\thiag\\Downloads\\Queued local.txt",
+            "fileType": ".txt",
+            "linesAdded": 992,
+            "linesRemoved": 0,
+            "projectName": "Downloads",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 0
+      },
+      "changeFrequency": {
+        "7": 0
+      },
+      "topFiles": [
+        "c:\\Users\\thiag\\Downloads\\Queued local.txt"
+      ],
+      "averageChangeSize": 992
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    7
+  ],
+  "mostUsedLanguages": [
+    "txt"
+  ]
+}
