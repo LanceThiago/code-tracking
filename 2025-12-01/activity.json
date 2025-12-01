@@ -33,6 +33,53 @@
         "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\facturacion.php"
       ],
       "averageChangeSize": 413
+    },
+    "totem2": {
+      "totalLinesAdded": 11,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\xampp\\htdocs\\totem2\\test.php": [
+          {
+            "timestamp": "2025-12-01T16:03:55.044Z",
+            "fileName": "c:\\xampp\\htdocs\\totem2\\test.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "totem2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2025-12-01T16:04:15.687Z",
+            "fileName": "c:\\xampp\\htdocs\\totem2\\test.php",
+            "fileType": ".php",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "totem2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 1
+      },
+      "changeFrequency": {
+        "13": 1
+      },
+      "topFiles": [
+        "c:\\xampp\\htdocs\\totem2\\test.php"
+      ],
+      "averageChangeSize": 5.5
     }
   },
   "totalActiveTime": 0,
