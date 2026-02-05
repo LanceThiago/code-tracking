@@ -109,6 +109,39 @@
         "c:\\Users\\thiag\\Desktop\\mail\\2.txt"
       ],
       "averageChangeSize": 33416.333333333336
+    },
+    "web": {
+      "totalLinesAdded": 93,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\enviar-mails.php": [
+          {
+            "timestamp": "2026-02-05T15:58:28.259Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\enviar-mails.php",
+            "fileType": ".php",
+            "linesAdded": 93,
+            "linesRemoved": 0,
+            "projectName": "web",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 0
+      },
+      "changeFrequency": {
+        "12": 0
+      },
+      "topFiles": [
+        "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\enviar-mails.php"
+      ],
+      "averageChangeSize": 93
     }
   },
   "totalActiveTime": 5,
