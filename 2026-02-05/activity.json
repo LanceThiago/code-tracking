@@ -1,0 +1,123 @@
+{
+  "date": "2026-02-05",
+  "projects": {
+    "mail": {
+      "totalLinesAdded": 162988,
+      "totalLinesRemoved": 37510,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Users\\thiag\\Desktop\\mail\\1.txt": [
+          {
+            "timestamp": "2026-02-05T14:07:27.948Z",
+            "fileName": "c:\\Users\\thiag\\Desktop\\mail\\1.txt",
+            "fileType": ".txt",
+            "linesAdded": 107943,
+            "linesRemoved": 0,
+            "projectName": "mail",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-02-05T14:07:35.004Z",
+            "fileName": "c:\\Users\\thiag\\Desktop\\mail\\1.txt",
+            "fileType": ".txt",
+            "linesAdded": 17533,
+            "linesRemoved": 0,
+            "projectName": "mail",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\thiag\\Desktop\\mail\\3.txt": [
+          {
+            "timestamp": "2026-02-05T14:07:44.109Z",
+            "fileName": "c:\\Users\\thiag\\Desktop\\mail\\3.txt",
+            "fileType": ".txt",
+            "linesAdded": 19978,
+            "linesRemoved": 0,
+            "projectName": "mail",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-02-05T14:07:44.812Z",
+            "fileName": "c:\\Users\\thiag\\Desktop\\mail\\3.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 19977,
+            "projectName": "mail",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\thiag\\Desktop\\mail\\2.txt": [
+          {
+            "timestamp": "2026-02-05T14:07:48.533Z",
+            "fileName": "c:\\Users\\thiag\\Desktop\\mail\\2.txt",
+            "fileType": ".txt",
+            "linesAdded": 17534,
+            "linesRemoved": 0,
+            "projectName": "mail",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-02-05T14:07:49.739Z",
+            "fileName": "c:\\Users\\thiag\\Desktop\\mail\\2.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 17533,
+            "projectName": "mail",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 5
+      },
+      "changeFrequency": {
+        "11": 5
+      },
+      "topFiles": [
+        "c:\\Users\\thiag\\Desktop\\mail\\1.txt",
+        "c:\\Users\\thiag\\Desktop\\mail\\3.txt",
+        "c:\\Users\\thiag\\Desktop\\mail\\2.txt"
+      ],
+      "averageChangeSize": 33416.333333333336
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "txt"
+  ]
+}
