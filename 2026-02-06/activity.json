@@ -36,7 +36,7 @@
     },
     "Enviar Facturas": {
       "totalLinesAdded": 175,
-      "totalLinesRemoved": 27,
+      "totalLinesRemoved": 56,
       "totalActiveTime": 0,
       "files": {
         "c:\\xampp\\htdocs\\Enviar Facturas\\mail.php": [
@@ -60,6 +60,20 @@
             "fileType": ".php",
             "linesAdded": 0,
             "linesRemoved": 27,
+            "projectName": "Enviar Facturas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-02-06T14:54:48.160Z",
+            "fileName": "c:\\xampp\\htdocs\\Enviar Facturas\\mail.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 29,
             "projectName": "Enviar Facturas",
             "content": {
               "added": [],
