@@ -35,7 +35,7 @@
       "averageChangeSize": 141
     },
     "Enviar Facturas": {
-      "totalLinesAdded": 175,
+      "totalLinesAdded": 3149,
       "totalLinesRemoved": 56,
       "totalActiveTime": 0,
       "files": {
@@ -81,6 +81,22 @@
             },
             "duration": 0,
             "language": "php"
+          }
+        ],
+        "c:\\xampp\\htdocs\\Enviar Facturas\\INSERTS.sql": [
+          {
+            "timestamp": "2026-02-06T18:06:12.333Z",
+            "fileName": "c:\\xampp\\htdocs\\Enviar Facturas\\INSERTS.sql",
+            "fileType": ".sql",
+            "linesAdded": 2974,
+            "linesRemoved": 0,
+            "projectName": "Enviar Facturas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
           }
         ]
       },
