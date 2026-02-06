@@ -33,6 +33,39 @@
         "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\enviar-mails.php"
       ],
       "averageChangeSize": 141
+    },
+    "Enviar Facturas": {
+      "totalLinesAdded": 175,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\xampp\\htdocs\\Enviar Facturas\\mail.php": [
+          {
+            "timestamp": "2026-02-06T12:29:37.593Z",
+            "fileName": "c:\\xampp\\htdocs\\Enviar Facturas\\mail.php",
+            "fileType": ".php",
+            "linesAdded": 175,
+            "linesRemoved": 0,
+            "projectName": "Enviar Facturas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "c:\\xampp\\htdocs\\Enviar Facturas\\mail.php"
+      ],
+      "averageChangeSize": 175
     }
   },
   "totalActiveTime": 0,
