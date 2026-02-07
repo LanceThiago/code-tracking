@@ -1,0 +1,47 @@
+{
+  "date": "2026-02-07",
+  "projects": {
+    "enviarfacturas": {
+      "totalLinesAdded": 202,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\xampp\\htdocs\\enviarfacturas\\mail.php": [
+          {
+            "timestamp": "2026-02-07T12:57:43.925Z",
+            "fileName": "c:\\xampp\\htdocs\\enviarfacturas\\mail.php",
+            "fileType": ".php",
+            "linesAdded": 202,
+            "linesRemoved": 0,
+            "projectName": "enviarfacturas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "c:\\xampp\\htdocs\\enviarfacturas\\mail.php"
+      ],
+      "averageChangeSize": 202
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "php"
+  ]
+}
