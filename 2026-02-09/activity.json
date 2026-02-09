@@ -3,7 +3,7 @@
   "projects": {
     "enviarfacturas": {
       "totalLinesAdded": 82559,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 28,
       "totalActiveTime": 0,
       "files": {
         "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\facturacion.php": [
@@ -45,6 +45,20 @@
             "fileType": ".php",
             "linesAdded": 200,
             "linesRemoved": 0,
+            "projectName": "enviarfacturas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-02-09T12:55:34.862Z",
+            "fileName": "c:\\xampp\\htdocs\\enviarfacturas\\mail.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 28,
             "projectName": "enviarfacturas",
             "content": {
               "added": [],
