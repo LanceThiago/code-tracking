@@ -2,9 +2,9 @@
   "date": "2026-02-09",
   "projects": {
     "enviarfacturas": {
-      "totalLinesAdded": 93060,
-      "totalLinesRemoved": 29,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 94455,
+      "totalLinesRemoved": 1261,
+      "totalActiveTime": 2,
       "files": {
         "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\facturacion.php": [
           {
@@ -125,6 +125,36 @@
               "removed": []
             },
             "duration": 0,
+            "language": "txt"
+          }
+        ],
+        "c:\\Users\\thiag\\Desktop\\PROBLEMAS CON SMTP\\FUENTE DE MAIL TEST.txt": [
+          {
+            "timestamp": "2026-02-09T13:53:03.978Z",
+            "fileName": "c:\\Users\\thiag\\Desktop\\PROBLEMAS CON SMTP\\FUENTE DE MAIL TEST.txt",
+            "fileType": ".txt",
+            "linesAdded": 1395,
+            "linesRemoved": 0,
+            "projectName": "enviarfacturas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2026-02-09T13:54:01.672Z",
+            "fileName": "c:\\Users\\thiag\\Desktop\\PROBLEMAS CON SMTP\\FUENTE DE MAIL TEST.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 1232,
+            "projectName": "enviarfacturas",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "txt"
           }
         ]
