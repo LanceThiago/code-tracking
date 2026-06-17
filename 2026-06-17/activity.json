@@ -2,9 +2,9 @@
   "date": "2026-06-17",
   "projects": {
     "OFICINA": {
-      "totalLinesAdded": 538,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 5,
+      "totalLinesAdded": 669,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 6,
       "files": {
         "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\index.php": [
           {
@@ -48,6 +48,20 @@
             },
             "duration": 1,
             "language": "php"
+          },
+          {
+            "timestamp": "2026-06-17T14:11:05.508Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\index.php",
+            "fileType": ".php",
+            "linesAdded": 131,
+            "linesRemoved": 0,
+            "projectName": "OFICINA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
           }
         ],
         "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\facturacion.php": [
@@ -77,6 +91,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-06-17T14:11:35.489Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\facturacion.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "OFICINA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ]
