@@ -2,7 +2,7 @@
   "date": "2026-08-25",
   "projects": {
     "JOGO": {
-      "totalLinesAdded": 331,
+      "totalLinesAdded": 362,
       "totalLinesRemoved": 12,
       "totalActiveTime": 15,
       "files": {
@@ -147,6 +147,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-08-25T13:22:59.616Z",
+            "fileName": "c:\\xampp\\htdocs\\JOGO\\index.php",
+            "fileType": ".php",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "JOGO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ]
