@@ -2,9 +2,9 @@
   "date": "2026-08-25",
   "projects": {
     "JOGO": {
-      "totalLinesAdded": 362,
+      "totalLinesAdded": 385,
       "totalLinesRemoved": 12,
-      "totalActiveTime": 15,
+      "totalActiveTime": 17,
       "files": {
         "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\proveedores.php": [
           {
@@ -161,6 +161,48 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-08-25T13:28:37.107Z",
+            "fileName": "c:\\xampp\\htdocs\\JOGO\\index.php",
+            "fileType": ".php",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "JOGO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-08-25T13:29:22.370Z",
+            "fileName": "c:\\xampp\\htdocs\\JOGO\\index.php",
+            "fileType": ".php",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "JOGO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-08-25T13:30:12.704Z",
+            "fileName": "c:\\xampp\\htdocs\\JOGO\\index.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "JOGO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ]
