@@ -2,9 +2,9 @@
   "date": "2026-08-27",
   "projects": {
     "OFICINA": {
-      "totalLinesAdded": 610,
+      "totalLinesAdded": 613,
       "totalLinesRemoved": 5,
-      "totalActiveTime": 4,
+      "totalActiveTime": 8,
       "files": {
         "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\proveedores.php": [
           {
@@ -77,6 +77,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-08-27T13:19:35.787Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\facturacion.php",
+            "fileType": ".php",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "OFICINA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "php"
           }
         ]
