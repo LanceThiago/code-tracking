@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 429                                          |
+| **Lines Added** (➕)   | 941                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 429                |
+| **Net Change** (↕)    | 941                |
 | **Active Time** (⌚)   | 0 minute |
 
 
 ## Modified Files
 - **facturacion.php** (+429, -0)
+- **soc_sum.php** (+512, -0)
 
 ## Visualizations
 
@@ -20,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 429
+".php" : 941
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,7 +30,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "08h" : 1
+"09h" : 1
 ```
 
 
-> **Last Updated:** 9/2/2026, 8:52:24 AM
+> **Last Updated:** 9/2/2026, 9:12:24 AM
