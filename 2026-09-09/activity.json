@@ -94,8 +94,8 @@
     },
     "fz3temp-2": {
       "totalLinesAdded": 2909,
-      "totalLinesRemoved": 20,
-      "totalActiveTime": 7,
+      "totalLinesRemoved": 26,
+      "totalActiveTime": 9,
       "files": {
         "c:\\Users\\thiag\\AppData\\Local\\Temp\\fz3temp-2\\civilesyclubes.php": [
           {
@@ -398,6 +398,20 @@
             "fileType": ".php",
             "linesAdded": 0,
             "linesRemoved": 20,
+            "projectName": "fz3temp-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-09-09T16:13:54.519Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Local\\Temp\\fz3temp-2\\sim-tarf.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 6,
             "projectName": "fz3temp-2",
             "content": {
               "added": [],
