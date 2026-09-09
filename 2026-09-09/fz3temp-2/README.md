@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2937                                          |
+| **Lines Added** (➕)   | 3078                                          |
 | **Lines Removed** (➖) | 39                                        |
-| **Net Change** (↕)    | 2898                |
-| **Active Time** (⌚)   | 18 minutes |
+| **Net Change** (↕)    | 3039                |
+| **Active Time** (⌚)   | 23 minutes |
 
 
 ## Modified Files
@@ -26,6 +26,7 @@
 - **uso-racional.php** (+101, -0)
 - **violenciadegenero.php** (+43, -0)
 - **sim-tarf.php** (+73, -39)
+- **nvosums.php** (+141, -0)
 
 ## Visualizations
 
@@ -34,7 +35,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 2976
+".php" : 3117
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -43,8 +44,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "12h" : 15
-"13h" : 11
+"13h" : 12
 ```
 
 
-> **Last Updated:** 9/9/2026, 1:27:27 PM
+> **Last Updated:** 9/9/2026, 1:32:27 PM
