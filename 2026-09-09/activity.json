@@ -93,9 +93,9 @@
       "averageChangeSize": 39.333333333333336
     },
     "fz3temp-2": {
-      "totalLinesAdded": 2922,
-      "totalLinesRemoved": 26,
-      "totalActiveTime": 9,
+      "totalLinesAdded": 2937,
+      "totalLinesRemoved": 39,
+      "totalActiveTime": 18,
       "files": {
         "c:\\Users\\thiag\\AppData\\Local\\Temp\\fz3temp-2\\civilesyclubes.php": [
           {
@@ -432,6 +432,62 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-09-09T16:23:05.915Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Local\\Temp\\fz3temp-2\\sim-tarf.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "fz3temp-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-09-09T16:25:29.786Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Local\\Temp\\fz3temp-2\\sim-tarf.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "fz3temp-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-09-09T16:26:38.310Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Local\\Temp\\fz3temp-2\\sim-tarf.php",
+            "fileType": ".php",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "fz3temp-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-09-09T16:26:47.107Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Local\\Temp\\fz3temp-2\\sim-tarf.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "fz3temp-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "php"
           }
         ]
