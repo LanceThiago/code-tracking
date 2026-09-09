@@ -93,9 +93,9 @@
       "averageChangeSize": 39.333333333333336
     },
     "fz3temp-2": {
-      "totalLinesAdded": 2821,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalLinesAdded": 2909,
+      "totalLinesRemoved": 20,
+      "totalActiveTime": 7,
       "files": {
         "c:\\Users\\thiag\\AppData\\Local\\Temp\\fz3temp-2\\civilesyclubes.php": [
           {
@@ -330,6 +330,80 @@
               "removed": []
             },
             "duration": 0,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\thiag\\AppData\\Local\\Temp\\fz3temp-2\\violenciadegenero.php": [
+          {
+            "timestamp": "2026-09-09T16:10:34.383Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Local\\Temp\\fz3temp-2\\violenciadegenero.php",
+            "fileType": ".php",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "fz3temp-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-09-09T16:10:38.274Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Local\\Temp\\fz3temp-2\\violenciadegenero.php",
+            "fileType": ".php",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "fz3temp-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ],
+        "c:\\Users\\thiag\\AppData\\Local\\Temp\\fz3temp-2\\sim-tarf.php": [
+          {
+            "timestamp": "2026-09-09T16:11:16.479Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Local\\Temp\\fz3temp-2\\sim-tarf.php",
+            "fileType": ".php",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "fz3temp-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-09-09T16:11:19.940Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Local\\Temp\\fz3temp-2\\sim-tarf.php",
+            "fileType": ".php",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "fz3temp-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-09-09T16:12:23.965Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Local\\Temp\\fz3temp-2\\sim-tarf.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "fz3temp-2",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "php"
           }
         ]
