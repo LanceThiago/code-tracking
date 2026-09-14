@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 273                                          |
+| **Lines Added** (➕)   | 381                                          |
 | **Lines Removed** (➖) | 45                                        |
-| **Net Change** (↕)    | 228                |
+| **Net Change** (↕)    | 336                |
 | **Active Time** (⌚)   | 19 minutes |
 
 
 ## Modified Files
 - **uso-racional.php** (+135, -45)
 - **lugaresdepago.php** (+138, -0)
+- **oficina.php** (+108, -0)
 
 ## Visualizations
 
@@ -21,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".php" : 318
+".php" : 426
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -30,8 +31,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 9
-"12h" : 11
+"12h" : 12
 ```
 
 
-> **Last Updated:** 9/14/2026, 12:38:17 PM
+> **Last Updated:** 9/14/2026, 12:53:17 PM
