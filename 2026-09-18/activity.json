@@ -33,6 +33,39 @@
         "z:\\roque\\Datos pc energia\\Roque.txt"
       ],
       "averageChangeSize": 27
+    },
+    "Thiago": {
+      "totalLinesAdded": 28,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "z:\\Thiago\\PCs.txt": [
+          {
+            "timestamp": "2026-09-18T18:17:21.719Z",
+            "fileName": "z:\\Thiago\\PCs.txt",
+            "fileType": ".txt",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "Thiago",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 0
+      },
+      "changeFrequency": {
+        "15": 0
+      },
+      "topFiles": [
+        "z:\\Thiago\\PCs.txt"
+      ],
+      "averageChangeSize": 28
     }
   },
   "totalActiveTime": 0,
