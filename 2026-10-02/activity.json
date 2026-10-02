@@ -2,13 +2,27 @@
   "date": "2026-10-02",
   "projects": {
     "OFICINA": {
-      "totalLinesAdded": 2,
+      "totalLinesAdded": 4,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
         "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\enviar-mails.php": [
           {
             "timestamp": "2026-10-02T15:31:19.756Z",
+            "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\enviar-mails.php",
+            "fileType": ".php",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "OFICINA",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-10-02T16:56:41.102Z",
             "fileName": "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\enviar-mails.php",
             "fileType": ".php",
             "linesAdded": 2,
@@ -33,6 +47,54 @@
         "c:\\Users\\thiag\\AppData\\Roaming\\Code\\User\\globalStorage\\yunusga.ftp-simple\\remote-workspace-temp\\37045e2986e0b0e4b66c2134e9be553d\\web\\EXTRA\\OFICINA\\enviar-mails.php"
       ],
       "averageChangeSize": 2
+    },
+    "JOGO": {
+      "totalLinesAdded": 1256,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\xampp\\htdocs\\JOGO\\facturas.php": [
+          {
+            "timestamp": "2026-10-02T16:59:43.943Z",
+            "fileName": "c:\\xampp\\htdocs\\JOGO\\facturas.php",
+            "fileType": ".php",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "JOGO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-10-02T17:00:01.206Z",
+            "fileName": "c:\\xampp\\htdocs\\JOGO\\facturas.php",
+            "fileType": ".php",
+            "linesAdded": 1255,
+            "linesRemoved": 0,
+            "projectName": "JOGO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "php"
+          }
+        ]
+      },
+      "languageStats": {
+        "php": 5
+      },
+      "changeFrequency": {
+        "13": 4,
+        "14": 1
+      },
+      "topFiles": [
+        "c:\\xampp\\htdocs\\JOGO\\facturas.php"
+      ],
+      "averageChangeSize": 628
     }
   },
   "totalActiveTime": 0,
