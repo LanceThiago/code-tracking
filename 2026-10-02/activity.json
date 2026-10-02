@@ -50,7 +50,7 @@
     },
     "JOGO": {
       "totalLinesAdded": 1256,
-      "totalLinesRemoved": 384,
+      "totalLinesRemoved": 1056,
       "totalActiveTime": 6,
       "files": {
         "c:\\xampp\\htdocs\\JOGO\\facturas.php": [
@@ -108,6 +108,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "php"
+          },
+          {
+            "timestamp": "2026-10-02T17:11:54.461Z",
+            "fileName": "c:\\xampp\\htdocs\\JOGO\\facturas.php",
+            "fileType": ".php",
+            "linesAdded": 0,
+            "linesRemoved": 672,
+            "projectName": "JOGO",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "php"
           }
         ]
