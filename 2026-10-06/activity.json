@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-06",
+  "projects": {
+    "Downloads": {
+      "totalLinesAdded": 899,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\thiag\\Downloads\\legajos.html": [
+          {
+            "timestamp": "2026-10-06T11:34:29.445Z",
+            "fileName": "c:\\Users\\thiag\\Downloads\\legajos.html",
+            "fileType": ".html",
+            "linesAdded": 899,
+            "linesRemoved": 0,
+            "projectName": "Downloads",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 0
+      },
+      "changeFrequency": {
+        "8": 0
+      },
+      "topFiles": [
+        "c:\\Users\\thiag\\Downloads\\legajos.html"
+      ],
+      "averageChangeSize": 899
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    8
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}
